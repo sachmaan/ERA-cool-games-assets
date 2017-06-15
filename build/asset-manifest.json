@@ -1,9 +1,12 @@
 {
-  "main.css": "static/css/main.32af122e.css",
-  "main.css.map": "static/css/main.32af122e.css.map",
-  "main.js": "static/js/main.35006ef3.js",
-  "main.js.map": "static/js/main.35006ef3.js.map",
+  "main.css": "static/css/main.ff0fbd75.css",
+  "main.css.map": "static/css/main.ff0fbd75.css.map",
+  "main.js": "static/js/main.160a0e84.js",
+  "main.js.map": "static/js/main.160a0e84.js.map",
   "static/media/background_video.mp4": "static/media/background_video.987c7dcb.mp4",
   "static/media/border.png": "static/media/border.b37b5448.png",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "static/media/border_2.png": "static/media/border_2.ba31dafb.png",
+  "static/media/carat.svg": "static/media/carat.187eb5b3.svg",
+  "static/media/line-break.svg": "static/media/line-break.97b2f954.svg",
+  "static/media/logo.svg": "static/media/logo.b956580a.svg"
 }
